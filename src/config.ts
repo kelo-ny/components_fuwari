@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "硬硬的宁瑛",
+	title: "宁瑛的碎碎念",
 	subtitle: "软的还是硬的,我一试便知(^q^)~",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "hahhaahah", // Credit text to be displayed
+			text: "The image source from Internet.", // Credit text to be displayed
 			url: "assets/images/teto.jpg", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
